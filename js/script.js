@@ -68,7 +68,5 @@ Vue.component('card', {
       }, 1000);
     } } });
 
-
-
 const container = new Vue({
   el: '#cont' });
